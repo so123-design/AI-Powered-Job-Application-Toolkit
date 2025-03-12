@@ -9,6 +9,11 @@ This project consists of three independent AI-powered applications designed to o
 
 Each application is built using **IBM Watsonx.ai** and **Gradio**, offering an interactive user-friendly experience.
 
+<p align="center">
+  <img src="https://github.com/so123-design/AI-Powered-Job-Application-Toolkit/blob/3fdaa155965e86940120580efa4c068b8d1dd5c2/CV%20polisher%20screenshot.PNG" alt="My Image" width="800">
+</p>
+
+
 ---
 
 # 1. Resume Enhancer
